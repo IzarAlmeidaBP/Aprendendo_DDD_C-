@@ -1,0 +1,17 @@
+C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Aplicacao\bin\Debug\net6.0\AplicacaoApp.deps.json
+C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Aplicacao\bin\Debug\net6.0\AplicacaoApp.dll
+C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Aplicacao\bin\Debug\net6.0\AplicacaoApp.pdb
+C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Aplicacao\bin\Debug\net6.0\Dominio.dll
+C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Aplicacao\bin\Debug\net6.0\Entidades.dll
+C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Aplicacao\bin\Debug\net6.0\Dominio.pdb
+C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Aplicacao\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Aplicacao\obj\Debug\net6.0\AplicacaoApp.csproj.AssemblyReference.cache
+C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Aplicacao\obj\Debug\net6.0\AplicacaoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Aplicacao\obj\Debug\net6.0\AplicacaoApp.AssemblyInfoInputs.cache
+C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Aplicacao\obj\Debug\net6.0\AplicacaoApp.AssemblyInfo.cs
+C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Aplicacao\obj\Debug\net6.0\AplicacaoApp.csproj.CoreCompileInputs.cache
+C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Aplicacao\obj\Debug\net6.0\AplicacaoApp.csproj.CopyComplete
+C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Aplicacao\obj\Debug\net6.0\AplicacaoApp.dll
+C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Aplicacao\obj\Debug\net6.0\refint\AplicacaoApp.dll
+C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Aplicacao\obj\Debug\net6.0\AplicacaoApp.pdb
+C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Aplicacao\obj\Debug\net6.0\ref\AplicacaoApp.dll
