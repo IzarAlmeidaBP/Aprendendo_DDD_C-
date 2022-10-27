@@ -13,23 +13,20 @@ namespace Infra.Configuracoes
         
           public DbSet<Produto> Produto { get; set; }
 
-        protected override void GetV(DbContextOptions optionsBuilder)
-        {
-            return base.OnConfiguring(optionsBuilder);
-        }
+     
 
-        protected override void OnConfiguring(DbContextOptions optionsBuilder, void v)
+        protected void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer(string.Empty);
-                v;
+                optionsBuilder.UseSqlServer(GetStringConectionConfig());
+              
             }
         }
 
         private string GetStringConectionConfig()
         {
-            string strCon = "Data Source=DESKTOP-SKQHBNC;Initial Catalog=Ecommecer_API;Persist Security Info=True;User ID=sa;Password=********";
+            string strCon = "Data Source=DESKTOP-SKQHBNC;Initial Catalog=Ecommecer_API;Persist Security Info=True;User ID=sa;Password=Izar0109";
             return strCon;
         }
     }

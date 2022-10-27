@@ -10,3 +10,5 @@ C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Entities\obj\Debug\net6.0
 C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Entities\obj\Debug\net6.0\refint\Entidades.dll
 C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Entities\obj\Debug\net6.0\Entidades.pdb
 C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Entities\obj\Debug\net6.0\ref\Entidades.dll
+C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Entities\bin\Debug\net6.0\Entidades.runtimeconfig.json
+C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Entities\obj\Debug\net6.0\Entidades.genruntimeconfig.cache

@@ -10,3 +10,8 @@ C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Infraestrutura\obj\Debug\
 C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Infraestrutura\obj\Debug\net6.0\refint\Infra.dll
 C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Infraestrutura\obj\Debug\net6.0\Infra.pdb
 C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Infraestrutura\obj\Debug\net6.0\ref\Infra.dll
+C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Infraestrutura\bin\Debug\net6.0\Infra.runtimeconfig.json
+C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Infraestrutura\bin\Debug\net6.0\Entidades.dll
+C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Infraestrutura\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Infraestrutura\obj\Debug\net6.0\Infra.csproj.CopyComplete
+C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Infraestrutura\obj\Debug\net6.0\Infra.genruntimeconfig.cache

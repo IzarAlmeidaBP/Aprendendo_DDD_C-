@@ -15,3 +15,5 @@ C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Aplicacao\obj\Debug\net6.
 C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Aplicacao\obj\Debug\net6.0\refint\AplicacaoApp.dll
 C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Aplicacao\obj\Debug\net6.0\AplicacaoApp.pdb
 C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Aplicacao\obj\Debug\net6.0\ref\AplicacaoApp.dll
+C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Aplicacao\bin\Debug\net6.0\AplicacaoApp.runtimeconfig.json
+C:\Users\Izar Almeida\source\EcommerceDDD\EcommerceDDD\Aplicacao\obj\Debug\net6.0\AplicacaoApp.genruntimeconfig.cache

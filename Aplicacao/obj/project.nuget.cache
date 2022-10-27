@@ -1,15 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "IzkAKVZ2Odu7Ih6yIYqtUdfVjQ6oL+1U2vBY1Dbd9kaKccssN+Sn6CG8J+B6ps315LXRZtR1ltM8GdbOG4at8A==",
+  "dgSpecHash": "beA+8A50zopdIrEapqoUqWnF/cH4Twi27Oro2zwJNsFpprGjADpJFiBNbevW0uNzIYSVvFCBKr3V3ImEA/XlPQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Izar Almeida\\source\\EcommerceDDD\\EcommerceDDD\\Aplicacao\\AplicacaoApp.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Izar Almeida\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Izar Almeida\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\Izar Almeida\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\Izar Almeida\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.10\\microsoft.entityframeworkcore.6.0.10.nupkg.sha512",
     "C:\\Users\\Izar Almeida\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.10\\microsoft.entityframeworkcore.abstractions.6.0.10.nupkg.sha512",
     "C:\\Users\\Izar Almeida\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.10\\microsoft.entityframeworkcore.analyzers.6.0.10.nupkg.sha512",
+    "C:\\Users\\Izar Almeida\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.10\\microsoft.entityframeworkcore.design.6.0.10.nupkg.sha512",
     "C:\\Users\\Izar Almeida\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.10\\microsoft.entityframeworkcore.relational.6.0.10.nupkg.sha512",
     "C:\\Users\\Izar Almeida\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.10\\microsoft.entityframeworkcore.sqlserver.6.0.10.nupkg.sha512",
     "C:\\Users\\Izar Almeida\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
